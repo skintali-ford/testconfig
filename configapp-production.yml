@@ -1,5 +1,5 @@
 ---
 testappid:
-	- prop1:10
-	- prop2:55
+- prop1:10
+- prop2:55
 ...	
