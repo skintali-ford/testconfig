@@ -1,0 +1,5 @@
+---
+testappid:
+	- propCommon01:ValueFromCommon01
+	- propCommon02:ValueFromCommon02
+...	
