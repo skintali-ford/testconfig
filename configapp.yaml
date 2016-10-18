@@ -3,5 +3,5 @@ EU:
   PARK: PARKOPEDIA
 NA: 
   PARK: 
-    NAME: '\{\"appR:\": \{\"secret\"\: \"appAsecret\"\}, \"bar\"\: \"baz\"\}'
+    NAME: '\{\"appS:\": \{\"secret\"\: \"appAsecret\"\}, \"bar\"\: \"baz\"\}'
     URL: PARKWIZ
