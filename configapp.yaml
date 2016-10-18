@@ -1,6 +1,6 @@
 --- 
 AppID: 
-  METADATA: 'APP1:NA_F, APP2:NA_L, APP3:EU_F, APP4:CN_L'
+  METADATA: 'APP1:NA_F, APP2:NA_L, APP3:EU_F'
 NA: 
   PARK: 
     NAME: '\{\"appR:\": \{\"secret\"\: \"appAsecret\"\}, \"bar\"\: \"baz\"\}'
