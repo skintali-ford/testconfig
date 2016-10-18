@@ -3,5 +3,5 @@ AppID:
   METADATA: 'APP1:NA_F, APP2:NA_L, APP3:EU_F, APP4:CN_F, APP5: CN_L'
 NA: 
   PARK: 
-    NAME: '\{\"appR:\": \{\"secret\"\: \"appAsecret\"\}, \"bar\"\: \"baz\"\}'
-    URL: PARKWIZ
+    NAME: 'PARKWIZ'
+    URL: 'XYZ.com'
